@@ -3,6 +3,6 @@ package practice;
 public class FirstApp {
 	
 	public static void main(String[] args) {
-		System.out.println("FirstApp");
+		System.out.println("Zementics");
 	}//main()
 }//class
